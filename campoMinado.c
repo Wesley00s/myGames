@@ -90,7 +90,7 @@ int main()
                 {
                     printf("\nComo assim? Ninguém nunca foi tão longe contra as minhas bombas!! Você não mais longe que isso!\n");
                 }
-                else
+                else if(pontos >= 200)
                 {
                     printf("\nIMPOSSIBLE!! Você só pode ter olhado o código fonte...\n");
                 }
