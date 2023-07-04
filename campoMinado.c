@@ -55,7 +55,7 @@ int main()
 
             printf("\n\t\tVOCÊ ESCOLHEU JOGAR!\n\n");
 
-            printf("\nEscolha uma posição (um par ordenado L e C):\n");
+            printf("\nEscolha uma posição (um par ordenado Linha e Coluna):\n");
             printf("\nLinha: ");
             scanf("%d", &escolhaLi);
             printf("\nColuna: ");
